@@ -6,7 +6,7 @@ import folium
 from streamlit_folium import st_folium
 
 # Load the trained XGBoost model
-xgb_model = joblib.load('scripts\\best_xgb_model.pkl')
+xgb_model = joblib.load('scripts/best_xgb_model.pkl')
 
 # Unique weather conditions from training data
 weather_conditions = [
