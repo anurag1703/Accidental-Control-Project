@@ -11,7 +11,6 @@
 8. [Usage Instructions](#usage-instructions)
 9. [Results](#results)
 10. [Contributing](#contributing)
-11. [License](#license)
 
 ---
 
